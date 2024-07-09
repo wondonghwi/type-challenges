@@ -22,5 +22,5 @@ type test = Expect<Equal<HelloWorld, string>>
 
 풀이
 ```ts
-type HelloWorld = string // expected to be a string
+type HelloWorld = string 
 ```
